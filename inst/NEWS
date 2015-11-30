@@ -1,0 +1,8 @@
+0.0.4
+   o prepare for CRAN submission
+0.0-3
+   o improved functionality for palettes larger than 12
+0.0-2
+   o improved functionality for palettes larger than 9
+0.0-1
+   o initial package version

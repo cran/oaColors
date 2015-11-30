@@ -1,0 +1,11 @@
+467d4a0d96d808df5d3dce0152c22a72 *DESCRIPTION
+4b0cd41ca1c1ffe8e2e4b59f926e85c6 *LICENSE
+74b848a92cab47fed57c612cdfbd8fdc *NAMESPACE
+bb29dbde1985fd8eb4e5bf4a022c5cd7 *R/oaColorFunctions.R
+60f730e920b45281953a1ac9f349a89a *inst/NEWS
+6947f6e5a903c934896da149e7e71363 *man/colorWheel.Rd
+68ab6b3dd11913c440fd747b22977180 *man/oaColors.Rd
+be0eb0f3cdbfacba9c3e07b4c8754152 *man/oaPalette.Rd
+4e7631e1143d46095645001355d79b21 *tests/test_colorWheel.R
+e98cc1a22ebc944f055bf8ee4ed9107c *tests/test_oaColors.R
+8b55bca03cb96e1ff125bcab61b3c054 *tests/test_oaPalette.R
